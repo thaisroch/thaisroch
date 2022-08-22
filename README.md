@@ -2,9 +2,9 @@
 ### Oiee, eu sou a Thais Rocha.👋
 
 
-Bom, no inicio do ano de 2022 tive a oportunidade de migrar profissionalmente para a área de devops, e com isso venho adquirindo muita experiência e crescendo, vivendo a real paixão pela cultura, que torna os meus atuais mentores minha grande alavanca de apoio! 
+Bom, no inicio do ano de 2022 tive a oportunidade de migrar profissionalmente para a área de devops, e com isso vem crescendo a paixão pela cultura, que torna os meus atuais mentores minha grande alavanca de apoio! 
 
-Tudo nesse mundo tem me levado a me aprofundar nos estudos das tecnologias que envolve essse ciclo profissional e conciliar o acompanhamento de projetos em ótimas comunidade também tem me agragando muito a trazer resultados nas demandas.
+Tudo nessa area tem me levado a me aprofundar nos estudos das tecnologias que envolve essse ciclo profissional e conciliar o acompanhamento de projetos em ótimas comunidade também tem me agragando muito a trazer resultados nas demandas.
 
  No meu repositórios encontrará alguns projetos de estudo e aprendizagem!
 

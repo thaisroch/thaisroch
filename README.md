@@ -3,10 +3,7 @@
 
 
 Bom, no inicio do ano de 2022 tive a oportunidade de migrar profissionalmente para a área de devops, desde então vem crescendo a minha paixão pela cultura e pela profissão! 
-
-Desta forma tenho me aprofundado nos estudos das tecnologias que envolve essse ciclo profissional, conciliando com acompanhamento de projetos em ótimas comunidade que  me ensina muito a lidar e solucionar problemas com as demandas da vida real.
-
- No meu repositórios encontrará alguns projetos de estudo e aprendizagem!
+No meu repositórios encontrará alguns projetos de estudo e aprendizagem!
 
 
 ## Minhas Redes Sociais 
